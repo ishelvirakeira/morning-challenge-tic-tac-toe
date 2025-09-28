@@ -12,6 +12,6 @@ Lesson learned:
 - how to activate and deactivate event listeners in order to control the clicks on the grid
 
 Notes:
-I completed the challenge: 4
-I feel good about my code: 4
-Open to feedback that can help improve my code
+- I completed the challenge: 4
+- I feel good about my code: 4
+- Open to feedback that can help improve my code
