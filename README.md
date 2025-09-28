@@ -6,11 +6,10 @@ Tools used: HTML, CSS, JavaScript
 
 Lesson learned:
 
-how to use classes, constructors in the context of a game
-gained more experience with how to display messages in the DOM
-understood how to check the win and tie conditions
-how to activate and deactivate event listeners in order to control the clicks on the grid
-
+- how to use classes, constructors in the context of a game
+- gained more experience with how to display messages in the DOM
+- understood how to check the win and tie conditions
+- how to activate and deactivate event listeners in order to control the clicks on the grid
 
 Notes:
 I completed the challenge: 4
